@@ -1,0 +1,15 @@
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\bin\Debug\net6.0\homwork_003.exe
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\bin\Debug\net6.0\homwork_003.deps.json
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\bin\Debug\net6.0\homwork_003.runtimeconfig.json
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\bin\Debug\net6.0\homwork_003.dll
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\bin\Debug\net6.0\homwork_003.pdb
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\obj\Debug\net6.0\homwork_003.csproj.AssemblyReference.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\obj\Debug\net6.0\homwork_003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\obj\Debug\net6.0\homwork_003.AssemblyInfoInputs.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\obj\Debug\net6.0\homwork_003.AssemblyInfo.cs
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\obj\Debug\net6.0\homwork_003.csproj.CoreCompileInputs.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\obj\Debug\net6.0\homwork_003.dll
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\obj\Debug\net6.0\refint\homwork_003.dll
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\obj\Debug\net6.0\homwork_003.pdb
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\obj\Debug\net6.0\homwork_003.genruntimeconfig.cache
+C:\Users\Админ\OneDrive\Рабочий стол\Homwork\homwork_003\obj\Debug\net6.0\ref\homwork_003.dll
